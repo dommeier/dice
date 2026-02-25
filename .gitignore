@@ -1,0 +1,8 @@
+.vscode/
+.DS_Store
+**/__pycache__/
+*.egg-info/
+models/
+results/
+old_files
+data/single_cell/

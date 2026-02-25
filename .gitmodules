@@ -1,0 +1,3 @@
+[submodule "submodules/mr_mash"]
+	path = submodules/mr_mash
+	url = git@github.com:stephenslab/mr.mash.alpha.git

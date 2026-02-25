@@ -1,0 +1,13 @@
+"Dataset","Metric","Value"
+"Denoised","Adjusted_Rand_Index",0.281716433844656
+"Denoised","V_Measure",0.419884509898585
+"Denoised","Normalized_Mutual_Information",0.364358749672086
+"Denoised","Mean_LISI_Score",1.67832116633075
+"Denoised","Mean_Silhouette_Score",0.493539832952193
+"Denoised","Silhouette_Benchmark",0.00283433940417224
+"True","Adjusted_Rand_Index",0.281716433844656
+"True","V_Measure",0.419884509898585
+"True","Normalized_Mutual_Information",0.364358749672086
+"True","Mean_LISI_Score",1.67832116633075
+"True","Mean_Silhouette_Score",0.493539832952193
+"True","Silhouette_Benchmark",0.00283433940417224

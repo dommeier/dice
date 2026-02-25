@@ -1,0 +1,6 @@
+{
+    "train": "data/neo_cortex/C_train_400.npy",
+    "test": "data/neo_cortex/C_test_400.npy",
+    "labels_train": "data/neo_cortex/labels_train.csv",
+    "labels_test": "data/neo_cortex/labels_test.csv"
+}

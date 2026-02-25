@@ -1,0 +1,24 @@
+{
+    "labels": {
+        "train": "labels_train.csv",
+        "test": "labels_test.csv"
+    },
+    "data": {
+        "train": "C_train.npy",
+        "test": "C_test.npy"
+    },
+    "fit_observation_on": "test",
+    "observation_transform": [
+        "PCA",
+        {
+            "n_components": 15,
+            "random_state": 42
+        }
+    ],
+    "pipeline": [
+        [
+            "StandardScaler",
+            {}
+        ]
+    ]
+}
